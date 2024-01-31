@@ -5,7 +5,7 @@
 - Go fiber : `go get github.com/lib/pq`
 - Psql : `go get github.com/lib/pq`
 
-## docker 
+## docker + Postgres
 
 #### Setting up postgress locally
 - Postgres docker image : `docker pull postgres`
